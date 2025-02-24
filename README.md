@@ -1,3 +1,5 @@
+![Build Status](https://github.com/drone076/kubex/actions/workflows/go.yml/badge.svg)
+
 # Kubex
 
 `kubex` is a lightweight CLI tool for managing Kubernetes contexts. It simplifies switching between Kubernetes contexts and viewing the current context. Think of it as a stripped-down version of `kubectx`, designed to be simple, fast, and cross-platform.
