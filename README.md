@@ -206,7 +206,7 @@ We welcome contributions! If you find a bug or have an idea for a new feature, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License](LICENSE).
 
 ---
 
